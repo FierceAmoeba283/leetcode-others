@@ -1,1 +1,1 @@
-# Leetcode problems that I've solved or am currently solving
+Leetcode problems that I've solved or am currently solving
